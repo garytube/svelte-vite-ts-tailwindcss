@@ -1,0 +1,10 @@
+<style global lang="postcss">
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  :root {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+</style>
